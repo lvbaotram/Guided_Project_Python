@@ -33,3 +33,33 @@ Dig into a real-world Netflix movie dataset using everything from lists and loop
 9.Plotting with color!
 
 10.What next?
+
+# 2. Exploring eBay Car Sales Data
+## Python projects on DataQuest
+##  Description
+In this project, we'll work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
+
+The dataset was originally scraped and uploaded to Kaggle. We've made a few modifications from the original dataset that was uploaded to Kaggle:
+
+## Project
+[*Guided Project*]('https://github.com/lvbaotram/Guided_Project_Python/tree/main/Exploring-Ebay-Car-Sales-Data')
+### Project tasks
+
+1. Introduction
+
+2. Cleaning Column Names
+
+3. Initial Exploration and Cleaning
+
+4. Exploring the Odometer and Price Columns
+
+5. Exploring the date columns
+
+6.Dealing with Incorrect Registration Year Data
+
+7. Exploring Price by Band
+
+8. Storing Aggregate Data in a DataFrame
+
+9. Next Steps
+
