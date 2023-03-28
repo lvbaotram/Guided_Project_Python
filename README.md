@@ -42,7 +42,7 @@ In this project, we'll work with a dataset of used cars from eBay Kleinanzeigen,
 The dataset was originally scraped and uploaded to Kaggle. We've made a few modifications from the original dataset that was uploaded to Kaggle:
 
 ## Project
-[*Guided Project*]('https://github.com/lvbaotram/Guided_Project_Python/tree/main/Exploring-Ebay-Car-Sales-Data')
+[*Guided Project*](https://github.com/lvbaotram/Guided_Project_Python/tree/main/Exploring-Ebay-Car-Sales-Data)
 ### Project tasks
 
 1. Introduction
